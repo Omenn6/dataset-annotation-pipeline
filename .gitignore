@@ -1,3 +1,11 @@
 .venv/
-.idea
-task1/*_modified.xml
+.idea/
+
+task1/*.xml
+
+task2/task_train_coco*/
+
+task2/images/
+task2/updated_annotations.json
+task2/class_distribution.png
+task2/classes.txt
